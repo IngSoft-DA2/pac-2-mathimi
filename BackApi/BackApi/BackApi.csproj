@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\APIServiceFactory\APIServiceFactory.csproj" />
+    <ProjectReference Include="..\IImporter\IImporter.csproj" />
   </ItemGroup>
 
   <ItemGroup>
